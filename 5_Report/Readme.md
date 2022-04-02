@@ -17,3 +17,15 @@
 ![image](https://user-images.githubusercontent.com/94337426/146222862-513f0012-8eb7-4b5b-8da6-c06d11ad0ad5.png)
 ## Diagram 4
 ![image](https://user-images.githubusercontent.com/94337426/146222928-64d8c60d-fe10-46f6-8b51-e290f6c1c5ca.png)
+
+# TEST PLAN
+## High level test plan
+| Test ID | Game | Description | Exp I/P | Exp O/P | Actual O/P | Status |    
+|-------------|-------|-----------------|------------|-------------|----------------|------------------|
+| H_01 | Tic tac toe | To fill the row or colomn first | Getting "X "or" O " | "X" or "O" is getting filled | "X" or "O" filled | Pass |
+
+## Low level test plan
+
+| Test ID | Game | Description | Exp I/P | Exp O/P | Actual O/P | Status |    
+|-------------|-------|-----------------|------------|-------------|----------------|------------------|
+| L_01 | Tic tac toe | Display who won | NA | Player1 won or Player2 won | Player1 won or Player2 won | Pass |
