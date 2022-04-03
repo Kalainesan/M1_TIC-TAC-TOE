@@ -216,7 +216,7 @@ void playermove(int a[9])
     int inp;
     int i,j;
     re:
-    printf("Enter your choise between 1 to 9");
+    printf("Enter your choice between 1 to 9");
     scanf("%d",&inp);
     inp--;
     if(a[inp]!=2)
