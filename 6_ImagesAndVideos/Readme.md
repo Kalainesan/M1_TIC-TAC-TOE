@@ -1,6 +1,9 @@
 - ## Start Game
-![146325369-940370d7-65cf-4f5e-a665-79dbb1d79214](https://user-images.githubusercontent.com/102134305/161373703-a00093e6-5208-4e2d-8bff-dffa8931f530.png)
+
+![C__Windows_System32_cmd exe - tictactoe 26-03-2022 17_04_44](https://user-images.githubusercontent.com/102134305/161426241-85e4c51b-7467-4124-b35b-a21b9e9ce625.png)
 
 
 - ## End Game
-![Screenshot (34)](https://user-images.githubusercontent.com/94179626/146325413-9ad65397-f663-48fd-8b59-d75c08d3c7ee.png)
+
+![C__Windows_System32_cmd exe - tictactoe 26-03-2022 17_09_08](https://user-images.githubusercontent.com/102134305/161426244-f7597f4d-77be-4104-85ef-b5b7a5d494b1.png)
+
